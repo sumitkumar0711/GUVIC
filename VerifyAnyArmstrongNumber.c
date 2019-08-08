@@ -18,8 +18,8 @@ int main()
         nn2 = nn2/10;
     }
     if(sum==n)
-    printf("Armstrong");
+    printf("yes");
     else
-    printf("Not an armstrong");
+    printf("no");
     return 0;
 }
